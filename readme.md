@@ -8,7 +8,7 @@ This will solve the problem of untimely orders and save time so that customers u
 We will use HTML,CSS and Javascript.
 For Customers, they will choose the meal they would like to order, and then, they will have to specify pick-up time. Customers' information will be saved in the website database.
 ## Link to Website
-https://kenkay.github.io/Class_Project
+ https://michelatieno.github.io/Class-Project-Final/
 ## Setup/Installation Requirements
 * Run a web browser.
 * Go to  Website
