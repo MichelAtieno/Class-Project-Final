@@ -5,7 +5,7 @@
 The Website will be a solution for lunch orders made before lunch time by customers.
 This will solve the problem of untimely orders and save time so that customers use time well. This menu will include options that customers prefer and at affordable prices. It will also include a survey form for customers to give input on what they would like to be served and any other meals of the day they would like to be served.
 ## Technologies Used
-We will use HTML,CSS and Javascript.
+We will use HTML,CSS and JavaScript.
 For Customers, they will choose the meal they would like to order, and then, they will have to specify pick-up time. Customers' information will be saved in the website database.
 ## Link to Website
  https://michelatieno.github.io/Class-Project-Final/
@@ -13,7 +13,7 @@ For Customers, they will choose the meal they would like to order, and then, the
 * Run a web browser.
 * Go to  Website
 ## Known Bugs
-There are no bugs.
+Have not completed JavaScript code.
 ## Technologies Used
 HTML,CSS and Javascript have been used.
 ## Support and contact details
